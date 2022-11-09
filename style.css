@@ -545,9 +545,9 @@ audio {
     color: white;
     height: 100%;
     width: 100%;
-    max-width: 9vw;
+    max-width: 10vw;
     min-height: 4vh;
-    font-size: 1.1rem;
+    font-size: 1rem;
     align-items: center;
     justify-content: space-around;
     margin: auto;
@@ -560,12 +560,6 @@ audio {
     background-color: rgba(0, 0, 0, 0.676);
     padding: 3px;
 }
-
-
-
-
-
-
 
 .task7Heading {
     border: 1px solid rgba(218, 218, 218, 0.409);
